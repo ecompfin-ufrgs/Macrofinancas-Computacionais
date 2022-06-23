@@ -70,9 +70,11 @@ Embora Julia não admita divisão por zero, ela admite denotar a noção de infi
 
 **Função**: notação
 
+```
 function f(x,y)
 	x + y
 end
+```
 
 Ou, para funçôes cuja expressão definidora é única, pode-se escrever:
 
@@ -84,19 +86,22 @@ f(x,y) = x + y
 
 ### Iteração
 
+```
 while i <= 5
     println(i)
     global i += 1
 end
+```
 
-
+```
 for i = 1:5
     println(i)
 end
-
+```
 
 ### Seleção
 
+```
 if x < y
     println("x is less than y")
 elseif x > y
@@ -104,5 +109,5 @@ elseif x > y
 else
     println("x is equal to y")
 end
-
+```
 
