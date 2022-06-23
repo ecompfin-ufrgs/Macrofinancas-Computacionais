@@ -1,14 +1,25 @@
 # Introdução à linguagem Julia
+Julia é uma linguagem de programação de alto nível que suporta prioritariamente os paradigmas de programação procedural e funcional.  Para especificar a linguagem, faremos o seguinte:
 
-## Variáveis e tipos de dados
+1. Definir tipos de dados
+2. Definir funções
+3. Definir estruturas de controle de fluxo de execução da programação estruturada
 
 A referência usada aqui é [Julia Manual: variables](https://docs.julialang.org/en/v1/manual/variables/)
+ 
+## Variáveis e tipos de dados
 
-**Definição**
+**Tipo de dado**: definição
 
-É um nome usado para se referir a um valor armazenado na memória.
+Um tipo de dado é um conjunto de valores com as respectivas operações que podem ser realizadas com eles. 
 
-**Propriedades**
+
+
+**Variável**: definição
+
+É um nome usado para se referir a um valor armazenado na memória.  Tais endereços terão tipos definidos pelo usuário no momento da codificação (tempo de compilação) ou pelo tradutor no momento da execução do código (tempo de execução).
+
+**Nomeando variáveis**
 
 1. Nomes de variáveis são sensíveis a maiúsculas e minúsculas, ou seja, *A* é uma variável diferente de *a*.
 
