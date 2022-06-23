@@ -7,7 +7,7 @@ Julia é uma linguagem de programação de alto nível que suporta prioritariame
 
 A referência usada aqui é [Julia Manual: variables](https://docs.julialang.org/en/v1/manual/variables/)
  
-## Variáveis e tipos de dados
+## 1. Variáveis e tipos de dados
 
 **Tipo de dado**: definição
 
@@ -41,21 +41,21 @@ y = ___
 - separe palavras por sublinhado, mas, na medida do possível dado pela legibilidade, evite o uso do sublinhado
 - Mais detalhes podem ser vistos em [Style Guides](https://docs.julialang.org/en/v1/manual/style-guide/#Style-Guide)
 
-## Tipos de dados numéricos
+### 1.1. Tipos de dados numéricos
 
-### Inteiros
+**Inteiros**
 
 - **IntX** onde X = 8,16,32, 64 ou 128.  Aceita valores de de -2^(X-1) até 2^(X)-1
 - **UintX** onde X = 8,16,32, 64 ou 128 - o mesmo que **IntX**, mas não aceita sinal negativo.  Seus valores vão de 0 a 2^(X)-1
 - Bool armazena os valores false (0) ou true (1)
 
-### Reais (ou números de ponto flutuante)
+**Reais (ou números de ponto flutuante)**
 
 - **Float16**
 - **Float32**
 - **Float64**
 
-### Complexos
+**Complexos**
 
 Um número complexo é da forma a + b.i onde a, b pertencem aos inteiros ou aos reais.  Em Julia se denota por a + bim. O tipo usado denomina-se **ComplexX** onde X segue a mesma convenção dos reais ou dos inteiros a depender dos valores de a e b.
 
@@ -64,7 +64,7 @@ Um número complexo é da forma a + b.i onde a, b pertencem aos inteiros ou aos 
 2 + 1im
 
 
-### Racionais
+**Racionais**
 
 Um número racional é um número real que pode ser colocado na forma de fração.  A notação para racionais em Julia é dada pelo operador de divisão duplo //
 
@@ -77,7 +77,7 @@ Embora Julia não admita divisão por zero, ela admite denotar a noção de infi
 
 
 
-## Programação Procedural
+## 2. Programação Procedural
 
 **Função**: notação
 
@@ -92,7 +92,7 @@ Ou, para funçôes cuja expressão definidora é única, pode-se escrever:
 f(x,y) = x + y 
 
 
-## Programação Estruturada
+## 3. Programação Estruturada
 
 
 ### Iteração
