@@ -49,6 +49,13 @@ y = ___
 - **UintX** onde X = 8,16,32, 64 ou 128 - o mesmo que **IntX**, mas não aceita sinal negativo.  Seus valores vão de 0 a 2^(X)-1
 - Bool armazena os valores false (0) ou true (1)
 
+**Exemplo**: declaração de tipo inteiro 
+
+```
+a:: Int8 = 10
+```
+
+
 **Reais (ou números de ponto flutuante)**
 
 - **Float16**
