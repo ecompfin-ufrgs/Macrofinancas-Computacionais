@@ -1,4 +1,4 @@
-# Introdução à linguagem Julia
+[# Introdução à linguagem Julia
 Julia é uma linguagem de programação de alto nível que suporta prioritariamente os paradigmas de programação procedural e funcional.  Para especificar a linguagem, faremos o seguinte:
 
 1. Definir tipos de dados
@@ -129,3 +129,4 @@ else
 end
 ```
 
+](https://github.com/ecompfin-ufrgs/macroeconomia/blob/main/aulas/index.md)
