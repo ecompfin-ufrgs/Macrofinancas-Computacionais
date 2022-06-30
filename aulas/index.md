@@ -83,6 +83,14 @@ Um número racional é um número real que pode ser colocado na forma de fraçã
 Embora Julia não admita divisão por zero, ela admite denotar a noção de infinito com um número racional como segue: 1//0.
 
 
+## 2. Programação sequencial
+
+### Entrada de dados
+
+### Processamento de dados: modelo de execução
+
+### Saída de dados
+
 
 ## 2. Programação Procedural
 
