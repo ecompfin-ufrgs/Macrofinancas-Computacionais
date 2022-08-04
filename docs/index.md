@@ -8,11 +8,15 @@ O plano de ensino da disciplina pode ser visto [aqui](https://docs.google.com/do
 
 Também vou postar aqui videos de algumas das aulas.  Espero que seja útil.
 
-Então, dá uma olhada aí no índice para você encontrar o que procura mais facilmente.
+À medida que o material for sendo posto aqui, ele vai aparecendo no Sumário aí embaixo.  Então, vai dando uma olhada para ver se você encontra o que procura.
 
 
-1. [Introdução à Linguagem Julia.](https://ecompfin-ufrgs.github.io/macroeconomia/introjulia.md)
-2. Saindo dos modelos macroeconômicos estáticos de curto prazo para entender a dinâmica da economia.
+1. [Introdução à Linguagem Julia.](introjulia.md)
+2. [Revisitando de novo o modelo IS/LM](islm.md)
+3. [Curva de Phillips:Saindo dos modelos macroeconômicos estáticos de curto prazo para entender a dinâmica da economia.](phillips.md)
+4. [Curva de Phillps com Expectativas Racionais: abandonando a dinâmica determinística rumo à dinâmica aleatória](lucasRapping.md)
+5. [Política monetária com Expectativas Racionais](polmonExpectativasRacionais.md)
+
 
 
 
