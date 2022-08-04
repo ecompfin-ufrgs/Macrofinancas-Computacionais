@@ -10,7 +10,9 @@ Também vou postar aqui videos de algumas das aulas.  Espero que seja útil.
 
 É isso.
 
-Vá agora para nossa página com uma [Introdução à Liguagem Julia.](https://github.com/ecompfin-ufrgs/macroeconomia/blob/main/docs/introjulia.md)
+Vá agora para nossa página com uma [Introdução à Liguagem Julia.](https://ecompfin-ufrgs/macroeconomia//introjulia.md)
+
+
 
 Até.
 
