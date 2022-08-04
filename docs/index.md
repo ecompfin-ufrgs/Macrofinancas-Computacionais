@@ -1,4 +1,4 @@
-# Bem vindo à Casa da Disciplina de Macroeconomia Computacional Avançada
+# Bem vindo à Casa da Disciplina de Macroeconomia Computacional Avançada no Curso de Ciências Econômicas da Universidade Federal do Rio Grande do Sul
 
 Aqui você encontrará conteúdos da disciplina de Macroeconomia Computacional Avançada ministrada por mim.[^1]
 
