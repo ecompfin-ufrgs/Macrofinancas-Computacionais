@@ -8,9 +8,11 @@ O plano de ensino da disciplina pode ser visto [aqui](https://docs.google.com/do
 
 Também vou postar aqui videos de algumas das aulas.  Espero que seja útil.
 
-É isso.
+Então, dá uma olhada aí no índice para você encontrar o que procura mais facilmente.
 
-Vá agora para nossa página com uma [Introdução à Liguagem Julia.](https://ecompfin-ufrgs.github.io/macroeconomia/introjulia.md)
+
+1. [Introdução à Liguagem Julia.](https://ecompfin-ufrgs.github.io/macroeconomia/introjulia.md)
+2. Saindo dos modelos macroeconômicos estáticos de curto prazo para entender a dinâmica da economia.
 
 
 
