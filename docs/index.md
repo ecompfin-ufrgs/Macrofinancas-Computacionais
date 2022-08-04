@@ -11,7 +11,7 @@ Também vou postar aqui videos de algumas das aulas.  Espero que seja útil.
 Então, dá uma olhada aí no índice para você encontrar o que procura mais facilmente.
 
 
-1. [Introdução à Liguagem Julia.](https://ecompfin-ufrgs.github.io/macroeconomia/introjulia.md)
+1. [Introdução à Linguagem Julia.](https://ecompfin-ufrgs.github.io/macroeconomia/introjulia.md)
 2. Saindo dos modelos macroeconômicos estáticos de curto prazo para entender a dinâmica da economia.
 
 
