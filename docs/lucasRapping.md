@@ -8,7 +8,7 @@ Já [Lucas and Rapping (1969b)](https://www.jstor.org/stable/1808963) avançam n
 
 ## O modelo de  Lucas e Rapping
 
-Considere uma economia de dois períodos de tempo com datas $\tau = \{0, 1, 2 \}$.  Suponha um indivíduo que toma decisão entre consumo e investimento na data t = 1.  Ele conhece a inflação $\pi_1$ ocorrida no período 1 e toma suas decisões de consumo tendo em conta uma inflação esperada $ \pi_2^{* } $ compatível com o conjunto de todas as informação que ele detém sobre o ambiente econômico.
+Considere uma economia de dois períodos de tempo com datas $\tau = \{0, 1, 2 \}$.  Suponha um indivíduo que toma decisão entre consumo e investimento na data t = 1.  Ele conhece a inflação $\pi_1$ ocorrida no período 1 e toma suas decisões de consumo tendo em conta uma inflação esperada $ \pi_2^{e} $ compatível com o conjunto de todas as informação que ele detém sobre o ambiente econômico.
 
 ## Métodos 
 
