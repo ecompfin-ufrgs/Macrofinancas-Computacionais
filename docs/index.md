@@ -24,6 +24,6 @@ Até.
 
 
 
-[^1]: Quem sou eu?  Ah!...  Quase me esqueço.  Eu sou o Nelson.  Atualmente, trabalho como professor da Faculdade de Ciências Econômicas da Universidade Federal do Rio Grande do Sul, Coordenador do Núcleo de Pesquisa e Extensão em Ciência de Dados e Computacional em Economia e Finanças (e-CompFin) da mesma universidade, responsável pelas disciplinas de Ciência de Dados em Economia e Finanças e Macroeconomia Computacional Avançada do curso de bacharelado em ciências econômicas e do Programa de Pós-graduação Profissional em Economia.  Se quiser saber mais sobre mim, dá uma olhada [aqui](https://professor.ufrgs.br/nelsonseixas)
+[^1]: Quem sou eu?  Ah!...  Quase me esqueço.  Meu nome é Nelson Seixas.  Atualmente, sou professor de Macrofinanças Computacionais e Ciência de Dados da Faculdade de Ciências Econômicas da Universidade Federal do Rio Grande do Sul, Coordenador do Núcleo de Pesquisa e Extensão em Ciência de Dados e Computacional em Economia e Finanças (e-CompFin) da mesma universidade do curso de bacharelado em ciências econômicas e do Programa de Pós-graduação Profissional em Economia.  Se quiser saber mais sobre mim, dá uma olhada [aqui](https://professor.ufrgs.br/nelsonseixas)
 
 
