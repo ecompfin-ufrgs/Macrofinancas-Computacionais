@@ -8,7 +8,7 @@ Já [Lucas and Rapping (1969b)](https://www.jstor.org/stable/1808963) avançam n
 
 ## O modelo de  Lucas e Rapping
 
-Considere uma economia de dois períodos de tempo com datas $\tau = \left\{0, 1, 2 \right\}$.  Suponha um indivíduo que toma decisão entre consumo e investimento.
+Considere uma economia de dois períodos de tempo com datas $\tau = \{0, 1, 2 \}$.  Suponha um indivíduo que toma decisão entre consumo e investimento.
 ## Métodos 
 
 
