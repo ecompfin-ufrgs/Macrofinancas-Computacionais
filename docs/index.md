@@ -1,6 +1,6 @@
 # Bem vindo!
 
-Aqui é a casa da disciplina de Macroeconomia Computacional Avançada do Curso de Ciências Econômicas da Universidade Federal do Rio Grande do Sul.
+Aqui é a casa da disciplina de Macrofinanças Computacionais do Curso de Ciências Econômicas da Universidade Federal do Rio Grande do Sul.
 
 Aqui você encontrará conteúdos da disciplina  ministrada por mim [^1].
 
