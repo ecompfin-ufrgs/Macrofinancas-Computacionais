@@ -117,8 +117,10 @@ O equilíbrio de curto prazo se dá quando a renda Y e a taxa de juros R se most
 $$IS\left(R, Y\right) =  \left(1 - b\right).Y - d.R - C_0 - I_0 - G_0 = 0 $$
 $$LM\left(R, Y\right) =  e.Y + f.R - \frac{M_0}{P_0} = 0 $$
 
-### Efeito das políticas fiscal e monetária
-Para determinar tais efeitos, basta calcular as derivadas parciais $\frac{\partial Y}{\partial G_0}$ e $\frac{\partial Y}{\partial M_0}$ na solução do sistema.  Formalmente, isto é feito, sem resolver explicitamente o sistema, por meio do teorema da função implícita.  Mas, no caso linear, pode-se resolver o sistema e, depois, calcular o valor das derivadas parciais mencionadas na solução explícita do sistema.
+### Efeito das políticas fiscal e monetária no produto e na taxa de juros
+Para determinar tais efeitos, basta calcular as derivadas parciais $\frac{\partial Y}{\partial G_0}$, $\frac{\partial Y}{\partial M_0}$,  $\frac{\partial R}{\partial G_0}$ e $\frac{\partial R}{\partial M_0}$ na solução do sistema.  Formalmente, isto é feito, sem resolver explicitamente o sistema, por meio do teorema da função implícita.  Mas, no caso linear, pode-se resolver o sistema e, depois, calcular o valor das derivadas parciais mencionadas na solução explícita do sistema.
+
+De qualquer forma, observe que ambas as políticas tem efeito positivo sobre o nível de produto sem qualquer impacto no nível de preços, posto que este é suposto constante.  **Ou seja, não há inflação por hipótese!!!!**  Por isso, pode-se expandir infinitamente a oferta de moeda para financiar quaisquer gastos públicos, ou seja, o governo não tem restrição orçamentária.  Nesse sentido, justificam-se políticas contra teto de gastos públicos ou, de modo geral, qualquer tipo de corte de gastos.  Como já se disse no Brasil, "Gasto público é vida!".
 
 ## Exercício
 
