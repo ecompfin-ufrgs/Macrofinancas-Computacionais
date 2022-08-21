@@ -55,6 +55,14 @@ $$Y^d = Y$$
 Onde:
 Y é a renda agregada.
 
+Ou seja:
+
+$$Y = \left(C_0 - b. Y\right) + \left(I_0 - d. R\right) + G_0$$ 
+
+Isto é:
+$$\left(1 - b\right).Y + d.R - C_0 - I_0 - G_0 = 0 = \left(IS\right)$$ - Curva IS
+
+
 
 ## Mercado monetário
 
@@ -74,6 +82,21 @@ Há também o **motivo transação** e o **motivo precaução** e ambos explicam
 $$L = e.Y - f.R$$
 
 Onde e > 0, f > 0 são parâmetros comportamentais da demanda, Y é a renda e R a taxa de juros real da economia.
+
+### Equilíbrio no mercado monetário
+
+O equilíbrio se dá quando a oferta de moeda se iguala à demanda de moeda.  Como a preferência pela liquidez L é uma demanda real de moeda, então, para se chegar à demanda se multiplicar L pelo nível de preços P, ou seja:
+
+$$M^S = L.P$$
+
+Ou, em termos de quantidade real de moeda, temos:
+
+$$\frac{M^S}{P} = L$$
+
+
+Então, substituindo as variáveis pelas suas respectivas expressões, temos:
+
+$$\frac{M}{P} = e.Y - f.R$$
 
 
 ## Equilíbrio de curto prazo
