@@ -60,7 +60,11 @@ Ou seja:
 $$Y = \left(C_0 - b. Y\right) + \left(I_0 - d. R\right) + G_0$$ 
 
 Isto é:
-$$\left(1 - b\right).Y + d.R - C_0 - I_0 - G_0 = 0 = \left(IS\right)$$ - Curva IS
+$$\left(1 - b\right).Y + d.R - C_0 - I_0 - G_0 = 0 $$
+
+Esta curva é chamada de IS, porque o equilíbrio no mercado de bens se dá com Investimento (I) se igualando à poupança (S).  Ou seja:
+
+$$IS\left(R, Y\irght) =  \left(1 - b\right).Y + d.R - C_0 - I_0 - G_0 = 0 $$
 
 
 
