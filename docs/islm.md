@@ -118,5 +118,11 @@ $$LM\left(R, Y\right) =  e.Y + f.R - \frac{M_0}{P_0} = 0 $$
 ### Efeito das políticas fiscal e monetária
 Para determinar tais efeitos, basta calcular as derivadas parciais $\frac{\partial Y}{\partial G_0}$ e $\frac{\partial Y}{\partial M_0}$ na solução do sistema.  Formalmente, isto é feito, sem resolver explicitamente o sistema, por meio do teorema da função implícita.  Mas, no caso linear, pode-se resolver o sistema e, depois, calcular o valor das derivadas parciais mencionadas na solução explícita do sistema.
 
+### Exercício
+
+1. Resolva o sistema IS-LM linear
+2. Calcule as derivadas parciais da solução do sistema do item anterior em relação à despesa pública e à quantidade de moeda para determinar os efeitos da política monetária e fiscal.
+3. Refaça os exercícios 1 e 2 com funções consumo, investimento e demanda de moeda genérica e, usando o teorema  da função implícita, calcule o sinal das derivadas da solução em relação à moeda e à despesa pública.
+
 [^1]: Para os interessados na evolução histórica do modelo, refere-se à pagina Web do [Hystory of Economic Thought](https://www.hetwebsite.net/het/essays/keynes/hickshansen.htm).
 [^2]: Sem a suposição de linearidade das funções consumo, investimento e demanda de moeda, é preciso utilizar o teorema da função implícita para calcular o efeito das políticas fiscal e monetária sobre o nível de produto.
