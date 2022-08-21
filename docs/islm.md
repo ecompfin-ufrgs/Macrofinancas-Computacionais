@@ -105,11 +105,18 @@ $$\frac{M_0}{P_0} = e.Y + f.R$$
 
 Esta curva é chamada de LM porque iguala a preferência pela liquidez (L) à oferta de moeda (M).  Então:
 
-$$LM\left(R, Y\right) =  e.Y + f.R - \frac{M_0}{P_0} $$
+$$LM\left(R, Y\right) =  e.Y + f.R - \frac{M_0}{P_0} = 0 $$
 
 
 ## Equilíbrio de curto prazo
 
+O equilíbrio de curto prazo se dá quando a renda Y e a taxa de juros R se mostram compatíveis com a LM e com a IS. Ou seja, resolvendo o sistema a seguir:
+
+$$IS\left(R, Y\right) =  \left(1 - b\right).Y - d.R - C_0 - I_0 - G_0 = 0 $$
+$$LM\left(R, Y\right) =  e.Y + f.R - \frac{M_0}{P_0} = 0 $$
+
+### Efeito das políticas fiscal e monetária
+Para determinar tais efeitos, basta calcular as derivadas parciais $\frace{\partial Y}{\partial G_0}$ e $\frace{\partial Y}{\partial M_0}$ na solução do sistema.  Formalmente, isto é feito, sem resolver explicitamente o sistema, por meio do teorema da função implícita.  Mas, no caso linear, pode-se resolver o sistema e, depois, calcular o valor das derivadas parciais mencionadas na solução explícita do sistema.
 
 [^1]: Para os interessados na evolução histórica do modelo, refere-se à pagina Web do [Hystory of Economic Thought](https://www.hetwebsite.net/het/essays/keynes/hickshansen.htm).
 [^2]: Sem a suposição de linearidade das funções consumo, investimento e demanda de moeda, é preciso utilizar o teorema da função implícita para calcular o efeito das políticas fiscal e monetária sobre o nível de produto.
