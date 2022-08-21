@@ -29,7 +29,9 @@ Onde:
 
 ### Função investimento
 
-A função investimento relaciona o investimento agregado à taxa de juros real da economia.  Supõe-se que esta função possui derivada menor que zero, indicando que um aumento na taxa de juros real da economia implica redução no investimento agregado.  Há também um investimento autônomo, isto é, que não depende da taxa de juros, que pode estar relacionado, por exemplo, à preservação do capital contra depreciação.  A função investimento é mostrada a seguir na sua formulação linear:
+Os empresários agem motivados por seus "espíritos animais" de medo e ganância.  Estes "espíritos animais" os conduzem a formar expectativas sobre o fluxo de caixa esperado dos projetos de investimento que determina a *eficiência marginal do capital* (que é um neologismo para a taxa interna de retorno).  Os empresários, então, realizam apenas os projetos cuja eficiência marginal superem a taxa de juros real da economia.  No curto prazo, porém, as expectativas são supostas fixadas e, portanto, também a eficiência marginal do capital de modo que pode-se supor que o investimento dependa apenas da taxa de juros.
+
+Chama-se função investimento à relação entre o investimento agregado e a taxa de juros real da economia.  Supõe-se que esta função possui derivada menor que zero, indicando que um aumento na taxa de juros real da economia implica redução no investimento agregado.  Há também um investimento autônomo, isto é, que não depende da taxa de juros, que pode estar relacionado, por exemplo, à preservação do capital contra depreciação.  A função investimento é mostrada a seguir na sua formulação linear:
 
 $$I = I_0 - d.R$$
 
@@ -56,6 +58,22 @@ Y é a renda agregada.
 
 ## Mercado monetário
 
+### Oferta de moeda
+A oferta de moeda da economia é determinada pelo Banco Central assumindo qualquer valor definido pela autoridade monetária.  Formalmente:
+
+$$M^S = M$$
+
+Onde $M^S$ é a oferta de moeda e M é quantidade de moeda definida pela autoridade monetária.
+
+### Demanda de moeda
+
+A demanda real de moeda, conhecida em Keynes como **preferência pela liquidez** depende da taxa de juros da economia e do nível de produção.  A taxa de juros determina a demanda de moeda, pois um dos motivos para se demandar moeda é para aproveitar a possibilidade de a taxa de juros das aplicações financeiras se elevarem.  Keynes chama esta razão para a demanda de moeda de **motivo especulação**.  Ocorre que quanto maior a taxa de juros menor a probabilidade de elas se elevarem e, por isso, a demanda por especulação é descrescente com a taxa de juros.
+
+Há também o **motivo transação** e o **motivo precaução** e ambos explicam a dependência da demanda de moeda ao nível de produção da economia.  Isto porque o **motivo transação** decorre de as pessoas precisarem de moeda para efetuarem a compra dos bens que demandam ao passo que o **motivo precaução** resulta de as pessoas terem de se preparar para a realização de gastos imprevistos e, por isso, necessitarem de moeda para se lhe darem com tais imprevistos.  Ou seja, a demanda de moeda pelos motivos transação e precaução é crescente com a renda.  A função de preferência pela liquidez linear seria, então, uma função como a seguinte:
+
+$$L = e.Y - f.R$$
+
+Onde e > 0, f > 0 são parâmetros comportamentais da demanda, Y é a renda e R a taxa de juros real da economia.
 
 
 ## Equilíbrio de curto prazo
