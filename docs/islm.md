@@ -55,6 +55,8 @@ $$Y^d = Y$$
 Onde:
 Y é a renda agregada.
 
+Supõe-se prevalecer o princípio da insuficiência de demanda efetiva, ou seja, $Y^d < Y^* $ onde $ Y^* $ é o nível de produto potencial da economia, isto é, o produto de pleno emprego. 
+
 Ou seja:
 
 $$Y = \left(C_0 + b. Y\right) + \left(I_0 + d. R\right) + G_0$$ 
@@ -123,6 +125,8 @@ Para determinar tais efeitos, basta calcular as derivadas parciais $\frac{\parti
 1. Resolva o sistema IS-LM linear
 2. Calcule as derivadas parciais da solução do sistema do item anterior em relação à despesa pública e à quantidade de moeda para determinar os efeitos da política monetária e fiscal.
 3. Refaça os exercícios 1 e 2 com funções consumo, investimento e demanda de moeda genérica e, usando o teorema  da função implícita, calcule o sinal das derivadas da solução em relação à moeda e à despesa pública.
+4. Simule em Julia o sistema IS-LM para 5 para de valores $\left(G_0, M_0\right)$ e verifique graficamente a mudança em ambas as curvas individualmente.
+5. Suponha que a oferta de moeda seja expandida pelo banco central segundo uma função logarítmica no tempo e que o  
 
 [^1]: Para os interessados na evolução histórica do modelo, refere-se à pagina Web do [Hystory of Economic Thought](https://www.hetwebsite.net/het/essays/keynes/hickshansen.htm).
 [^2]: Sem a suposição de linearidade das funções consumo, investimento e demanda de moeda, é preciso utilizar o teorema da função implícita para calcular o efeito das políticas fiscal e monetária sobre o nível de produto.
