@@ -33,11 +33,11 @@ Os empresários agem motivados por seus "espíritos animais" de medo e ganância
 
 Chama-se função investimento à relação entre o investimento agregado e a taxa de juros real da economia.  Supõe-se que esta função possui derivada menor que zero, indicando que um aumento na taxa de juros real da economia implica redução no investimento agregado.  Há também um investimento autônomo, isto é, que não depende da taxa de juros, que pode estar relacionado, por exemplo, à preservação do capital contra depreciação.  A função investimento é mostrada a seguir na sua formulação linear:
 
-$$I = I_0 - d.R$$
+$$I = I_0 + d.R$$
 
 Onde:
 - $I_0$ é chamado de consumo autônomo, sendo, por definição, independente da renda
-- d é a sensibilidade do investimento à taxa de juros
+- d < 0  é a sensibilidade do investimento à taxa de juros
 - R é a taxa de  juros real da economia.
 
 ### Despesa pública
@@ -57,14 +57,15 @@ Y é a renda agregada.
 
 Ou seja:
 
-$$Y = \left(C_0 - b. Y\right) + \left(I_0 - d. R\right) + G_0$$ 
+$$Y = \left(C_0 + b. Y\right) + \left(I_0 + d. R\right) + G_0$$ 
 
 Isto é:
-$$\left(1 - b\right).Y + d.R - C_0 - I_0 - G_0 = 0 $$
+
+$$\left(1 - b\right).Y - d.R - C_0 - I_0 - G_0 = 0 $$
 
 Esta curva é chamada de IS, porque o equilíbrio no mercado de bens se dá com Investimento (I) se igualando à poupança (S).  Ou seja:
 
-$$IS\left(R, Y\right) =  \left(1 - b\right).Y + d.R - C_0 - I_0 - G_0 = 0 $$
+$$IS\left(R, Y\right) =  \left(1 - b\right).Y - d.R - C_0 - I_0 - G_0 = 0 $$
 
 
 
@@ -73,7 +74,7 @@ $$IS\left(R, Y\right) =  \left(1 - b\right).Y + d.R - C_0 - I_0 - G_0 = 0 $$
 ### Oferta de moeda
 A oferta de moeda da economia é determinada pelo Banco Central assumindo qualquer valor definido pela autoridade monetária.  Formalmente:
 
-$$M^S = M$$
+$$M^S = M_0$$
 
 Onde $M^S$ é a oferta de moeda e M é quantidade de moeda definida pela autoridade monetária.
 
@@ -83,24 +84,28 @@ A demanda real de moeda, conhecida em Keynes como **preferência pela liquidez**
 
 Há também o **motivo transação** e o **motivo precaução** e ambos explicam a dependência da demanda de moeda ao nível de produção da economia.  Isto porque o **motivo transação** decorre de as pessoas precisarem de moeda para efetuarem a compra dos bens que demandam ao passo que o **motivo precaução** resulta de as pessoas terem de se preparar para a realização de gastos imprevistos e, por isso, necessitarem de moeda para se lhe darem com tais imprevistos.  Ou seja, a demanda de moeda pelos motivos transação e precaução é crescente com a renda.  A função de preferência pela liquidez linear seria, então, uma função como a seguinte:
 
-$$L = e.Y - f.R$$
+$$L = e.Y + f.R$$
 
-Onde e > 0, f > 0 são parâmetros comportamentais da demanda, Y é a renda e R a taxa de juros real da economia.
+Onde e > 0, f < 0 são parâmetros comportamentais da demanda, Y é a renda e R a taxa de juros real da economia.
 
 ### Equilíbrio no mercado monetário
 
-O equilíbrio se dá quando a oferta de moeda se iguala à demanda de moeda.  Como a preferência pela liquidez L é uma demanda real de moeda, então, para se chegar à demanda se multiplicar L pelo nível de preços P, ou seja:
+O equilíbrio se dá quando a oferta de moeda se iguala à demanda de moeda.  Como a preferência pela liquidez L é uma demanda real de moeda, então, para se chegar à demanda se multiplicar L pelo nível de preços $P_0$, ou seja:
 
-$$M^S = L.P$$
+$$M^S = L.P_0$$
 
 Ou, em termos de quantidade real de moeda, temos:
 
-$$\frac{M^S}{P} = L$$
+$$\frac{M^S}{P_0} = L$$
 
 
 Então, substituindo as variáveis pelas suas respectivas expressões, temos:
 
-$$\frac{M}{P} = e.Y - f.R$$
+$$\frac{M_0}{P_0} = e.Y + f.R$$
+
+Esta curva é chamada de LM porque iguala a preferência pela liquidez (L) à oferta de moeda (M).  Então:
+
+$$LM\left(R, Y\right) =  e.Y + f.R - \frac{M_0}{P_0} $$
 
 
 ## Equilíbrio de curto prazo
