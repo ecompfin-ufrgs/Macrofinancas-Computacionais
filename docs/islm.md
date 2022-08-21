@@ -55,9 +55,9 @@ $$Y^d = Y$$
 Onde:
 Y é a renda agregada.
 
-Supõe-se prevalecer o princípio da insuficiência de demanda efetiva, ou seja, $Y^d < Y^* $ onde $ Y^* $ é o nível de produto potencial da economia, isto é, o produto de pleno emprego. 
+Supõe-se prevalecer o princípio da insuficiência de demanda efetiva, ou seja, $Y^d < Y^{ * }$ onde $ Y^{ * }$ é o nível de produto potencial da economia, isto é, o produto de pleno emprego. 
 
-Ou seja:
+Assim, substituindo as funções consumo e investimento na equação da demanda efetiva e igualando ao nível de produto, tem-se:
 
 $$Y = \left(C_0 + b. Y\right) + \left(I_0 + d. R\right) + G_0$$ 
 
