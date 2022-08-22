@@ -15,7 +15,7 @@ Onde:
 - C é o consumo agregado
 - I é o investimento agregado
 - G é a despesa pública
--
+
 ### Função consumo
 
 A função consumo consiste na teoria de consumo Keynesiana que supõe que o consumo agregado é função crescente da renda, mas com derivada inferior a 1.  Tal derivada é cognominada de **propensão marginal a consumir**.  A função consumo é mostrada a seguir na sua formulação linear:
