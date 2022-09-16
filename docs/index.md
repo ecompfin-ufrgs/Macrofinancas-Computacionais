@@ -16,6 +16,7 @@ Também vou postar aqui videos de algumas das aulas.  Espero que seja útil.
 3. [Curva de Phillips:Saindo dos modelos macroeconômicos estáticos de curto prazo para entender a dinâmica da economia.](phillips.md)
 4. [Curva de Phillps com Expectativas Racionais: abandonando a dinâmica determinística rumo à dinâmica aleatória](lucasRapping.md)
 5. [Política monetária com Expectativas Racionais](polmonExpectativasRacionais.md)
+6. [Novos Keynesianos](novosKeynesianos.md)
 
 
 
