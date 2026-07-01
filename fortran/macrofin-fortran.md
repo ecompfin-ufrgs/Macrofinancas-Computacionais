@@ -49,4 +49,3 @@ Para estudar como profissionais estruturam seus modelos:
    * O que faz: Analisa política monetária em modelos HANK (Heterogeneous Agent New Keynesian).
       * Código: Disponível no GitHub oficial do projeto HANK.
    
-
