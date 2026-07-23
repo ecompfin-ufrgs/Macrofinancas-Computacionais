@@ -1,5 +1,5 @@
 # Macrofinanças computacionais
-## Espaços l^2
+## Espaços $l^2$
 
 ## Processos estocásticos: definição, simulação e estimação
 
