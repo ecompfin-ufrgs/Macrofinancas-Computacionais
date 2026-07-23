@@ -1,4 +1,12 @@
 # Macrofinanças computacionais
+## Espaços l^2
+
+## Processos estocásticos: definição, simulação e estimação
+
+## Linguagem MATLAB
+
+### Léxico, semântica e sintaxe
+### As implementações MATLAB e Octave
 
 ## RBC
 1. Lucas (1978)
