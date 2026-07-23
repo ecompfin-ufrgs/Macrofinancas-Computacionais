@@ -11,7 +11,7 @@ Também vou postar aqui videos de algumas das aulas.  Espero que seja útil.
 À medida que o material for sendo posto aqui, ele vai aparecendo no Sumário aí embaixo.  Então, vai dando uma olhada para ver se você encontra o que procura.
 
 
-1. [Introdução à Linguagem MATLAB](octave/intMATLAB.md)
+1. [Introdução à Linguagem MATLAB](../octave/intMATLAB.md)
 2. [Revisitando de novo o modelo IS/LM](islm.md)
 3. [Curva de Phillips:Saindo dos modelos macroeconômicos estáticos de curto prazo para entender a dinâmica da economia.](phillips.md)
 4. [Curva de Phillps com Expectativas Racionais: abandonando a dinâmica determinística rumo à dinâmica aleatória](lucasRapping.md)
