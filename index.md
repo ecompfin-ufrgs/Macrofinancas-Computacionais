@@ -18,6 +18,6 @@ são amplamente utilizados pela maior parte das autoridades econômicas e monet�
 
 [^1]: Veja também [Estudo Especial nº 39/2019](https://www.bcb.gov.br/conteudo/relatorioinflacao/EstudosEspeciais/Revisao_do_modelo_estrutural_de_medio_porte_Samba.pdf) e  [Relatório de Inflação Mar/2023](https://www.bcb.gov.br/content/ri/relatorioinflacao/202303/ri202303b5p.pdf).
 
-Esta disciplina objetiva habilitar seus alunos a utilizarem modelos de macrofinanças desenvolvidos a partir da década de 1980, culminando com o próprio modelo SAMBA como estudo de caso particularmente importante.  Desta
+Esta disciplina objetiva habilitar seus alunos a utilizarem modelos de macrofinanças desenvolvidos a partir da década de 1980, sendo particularmente importante os trabalhos de [Kydland and Prescott (1982)](), [Mehra and Prescott (1985)]() e [Christiano and Eichenbaum (1982)]().  Culmina-se com o próprio modelo SAMBA como estudo de caso particularmente importante.  Desta
 forma, os alunos ficam capacitados a compreender o debate econômico modernamente realizado em instituições financeiras, governos e, em particular, na gestão da política monetária brasileiras feita pelo Banco Central do Brasil.
 
