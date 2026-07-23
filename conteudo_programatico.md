@@ -1,14 +1,14 @@
 # Macrofinanças computacionais
-## Espaços $l^2$
+## 1. Espaços $l^2$
 
-## Processos estocásticos: definição, simulação e estimação
+## 2. Processos estocásticos: definição, simulação e estimação
 
-## Linguagem MATLAB
+## 3. Linguagem MATLAB
 
 ### Léxico, semântica e sintaxe
 ### As implementações MATLAB e Octave
 
-## RBC
+## 4. RBC
 1. Lucas (1978)
 1.1 Equilíbrio: definição e propriedades
 1.2 Espaços de processos estocásticos: limite, derivada, integral e otimização de funcionais
@@ -29,12 +29,13 @@
 3.3 Cálculo do equilíbrio com Python/Julia/R
 3.4 Calibração
 
-## DSGE
-4. Christiano (1983)
+## 5. DSGE
+4. Calvo (1983)
 3.1 Equilíbrio: definição e propriedades
 3.2 Métodos numéricos de otimização
 3.3 Cálculo do equilíbrio com Python/Julia/R
 3.4 Inferência econométrica
+
 
 
 
