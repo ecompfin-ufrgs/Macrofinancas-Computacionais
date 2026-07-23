@@ -91,23 +91,7 @@ Embora Julia não admita divisão por zero, ela admite denotar a noção de infi
 
 ### Saída de dados
 
-
-## 2. Programação Procedural
-
-**Função**: notação
-
-```
-function f(x,y)
-	x + y
-end
-```
-
-Ou, para funçôes cuja expressão definidora é única, pode-se escrever:
-
-f(x,y) = x + y 
-
-
-## 3. Programação Estruturada
+## 2. Programação Estruturada
 
 
 ### Iteração
@@ -136,5 +120,22 @@ else
     println("x is equal to y")
 end
 ```
+
+
+
+
+## 3. Programação Procedural
+
+**Função**: notação
+
+```
+function f(x,y)
+	x + y
+end
+```
+
+Ou, para funçôes cuja expressão definidora é única, pode-se escrever:
+
+f(x,y) = x + y 
 
 
