@@ -142,3 +142,6 @@ f(x,y) = x + y
 
 Divida o código em diversos arquivo com extensão .jl com base no princípio da responsabilidade única, isto é, cada arquivo conterá funções que resolvem problemas de uma única área científica ou de negócio.
 Use a instrução include(nome_do_arquivo) para incluir todas as funções no arquivo principal. 
+
+Defina tipos novos com a instrução struct em arquivo separado daquele que contém as funções que realizarão operações sobre ele, preferindo o emprego dos paradigmas procedural ou funcional ao paradigma orientado a 
+objetos, pois Julia não dá suporte nativo à orientação a objetos padrão tal como Python ou Java. 
