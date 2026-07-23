@@ -16,7 +16,7 @@ e subsidiariamente, para tratar de algumas questões específicas, adicionam-se 
 [^1]: Uma apresentação simples, em português, pode ser vista em [Dammski e D'Agostini (2024)](https://www.scielo.br/j/rec/a/kTtt4vQ6j83JXsJCGL3CPjq/?lang=pt&format=pdf)
 
 Como os mercados financeiros e de capitais respondem pela dinâmica de crescimento das economia, ligando o presente ao futuro, eles são essenciais para a gestão da política monetária e, por isso, modelos de macrofinanças
-são amplamente utilizados pela maior parte das autoridades econômicas e monetárias mundo afora.  Em particular, no Brasil, o Banco Central é o seu utilizador mais famoso, tendo desenvolvido o modelo [SAMBA](https://www.bcb.gov.br/detalhenoticia/701/noticia), descrito em [Castro et al (2011)](https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/wps239.pdf) e sua revisão em [Fasolo et al (2023)](https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP578.pdf).[^1]
+são amplamente utilizados pela maior parte das autoridades econômicas e monetárias mundo afora.  Em particular, no Brasil, o Banco Central é o seu utilizador mais famoso, tendo desenvolvido o modelo [SAMBA](https://www.bcb.gov.br/detalhenoticia/701/noticia), descrito em [Castro et al (2011)](https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/wps239.pdf) e sua revisão em [Fasolo et al (2023)](https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP578.pdf).[^2]
 
 [^2]: Veja também [Estudo Especial nº 39/2019](https://www.bcb.gov.br/conteudo/relatorioinflacao/EstudosEspeciais/Revisao_do_modelo_estrutural_de_medio_porte_Samba.pdf) e  [Relatório de Inflação Mar/2023](https://www.bcb.gov.br/content/ri/relatorioinflacao/202303/ri202303b5p.pdf).
 
