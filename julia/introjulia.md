@@ -91,7 +91,7 @@ Embora Julia não admita divisão por zero, ela admite denotar a noção de infi
 
 ### Saída de dados
 
-## 2. Programação Estruturada
+## 3. Programação Estruturada
 
 
 ### Iteração
@@ -124,7 +124,7 @@ end
 
 
 
-## 3. Programação Procedural
+## 4. Programação Procedural
 
 **Função**: notação
 
@@ -138,4 +138,7 @@ Ou, para funçôes cuja expressão definidora é única, pode-se escrever:
 
 f(x,y) = x + y 
 
+## 5. Modularização
 
+Divida o código em diversos arquivo com extensão .jl com base no princípio da responsabilidade única, isto é, cada arquivo conterá funções que resolvem problemas de uma única área científica ou de negócio.
+Use a instrução include(nome_do_arquivo) para incluir todas as funções no arquivo principal. 
